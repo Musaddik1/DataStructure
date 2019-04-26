@@ -1,6 +1,6 @@
 package com.DataStructure;
 
-public class Stack<T> {
+public class StackParentheses<T> {
 
 	class Node <T> 
 	{
